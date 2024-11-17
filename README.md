@@ -106,6 +106,7 @@ pip install ultralytics transformers torch torchvision tqdm pillow
 import ultralytics
 ultralytics.checks()
 ```
+--- 
 
 ### 📂 Dataset
 The project uses the **[**FloodNet Challenge (EarthVision 2021 - Track 2)**](https://github.com/BinaLab/FloodNet-Challenge-EARTHVISION2021?fbclid=IwAR2XIwe5nJg5VSgxgCldM7K0HPtVsDxB0fjd8cJJZfz6WMe3g0Pxg2W3PlE)**, which includes images and corresponding questions.
@@ -321,7 +322,7 @@ repo/
 - **Loss**: 0.9
 
 ### Validation Results
-- **Accuracy**: 64% (Placeholder)
+- **Accuracy**: 64%
 
 ### Example Predictions
 | **Question**          | **Image**            | **Answer**    |
